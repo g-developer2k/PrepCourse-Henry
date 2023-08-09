@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de prueba del modulo 2
+Este es el primer repositorio creado y clonado de GitHub, para el PreCourse del FullStack.
